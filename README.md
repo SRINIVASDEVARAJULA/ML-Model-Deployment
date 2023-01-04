@@ -1,2 +1,2 @@
-# ML-Model-Deployment
-Machine Learning Model deployment with Flask, Heroku
+# heroku-ml-deployment
+Heroku ML Deployment
